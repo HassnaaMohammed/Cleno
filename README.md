@@ -1,4 +1,93 @@
-# Team members :
-Hassnaa Mohammed, Ahmed Mohamed, Afaf Kamel , Gannah Ahmed, Jana Mahmoud, Yousef Osama 
-# Cleno
-Cleno is a concept sneaker brand created to solve the common problems of shoes. By integrating nanotechnology, the sneakers resist dirt &amp; water, stay fresh &amp; odor-free, &amp; provide superior comfort. This project explores the branding, visual identity &amp; social media campaign of Cleno - bringing innovation &amp; style together for everyday wear.
+ # 🎬 **Project Name**  
+# 🏷️ **CLENO – Concept Sneaker Brand**  
+
+---
+
+## 👥 **Team Members**  
+- 👩‍🎨 Hassnaa Mohammed  
+- 👨‍🎨 Ahmed Mohammed  
+- 👩‍🎨 Afaf Kamel  
+- 👩‍🎨 Gannah Ahmed  
+- 👩‍🎨 Jana Mahmoud  
+- 👨‍🎨 Yousef Osama  
+
+---
+
+## 📍 **Instructor Name**  
+**Dr. Mostsfa Mahmoud Thabet**  
+
+---
+
+## 📌 **Project Overview**  
+**CLENO** is a **concept sneaker brand** created to solve common problems in shoes.  
+By integrating **nanotechnology**, the sneakers:  
+- Resist **dirt & water**  
+- Stay **fresh & odor-free**  
+- Provide **superior comfort**  
+
+This project explores the **branding, visual identity & social media campaign** of **CLENO**, bringing **innovation & style** together for everyday wear.  
+
+---
+
+## 🎯 **Project Objectives**  
+✔️ Deliver a **sustainable sneaker concept** with nanotechnology  
+✔️ Build a **strong brand identity** (vision, mission, personality)  
+✔️ Develop a **visual identity system** (logo, typography, color palette)  
+✔️ Design and present **sneaker sketches & prototypes**  
+✔️ Launch a **creative social media campaign**  
+
+---
+
+## 📂 **Project Scope**  
+
+### ✅ **In Scope**  
+- Branding and identity design  
+- Logo and sneaker concept sketches  
+- Social media campaign visuals  
+- Website design & implementation  
+- Team presentations (theoretical & visual)  
+
+### 🚫 **Out of Scope**  
+- Physical sneaker production  
+- Paid advertising campaigns  
+
+---
+
+## 📊 **Work Plan – Team Roles**  
+
+| Team Members | Roles & Responsibilities |
+|--------------|---------------------------|
+| 👩‍🎨 **Hassnaa & Gannah** | **Research & Inspiration**<br>• Market and competitor research <br>• Create mood boards and collect design references (colors, sneaker styles, logos) <br>• Suggest design directions for sneakers and logo |
+| 👨‍🎨 **Yousef & Ahmed** | **Brand Identity**<br>• Define vision, mission, and brand personality <br>• Propose brand name, slogans, and tone of voice <br>• Suggest brand colors & fonts, ensure final designs match identity |
+| 👩‍🎨 **Afaf & Jana** | **Product & Visual Design**<br>• Sketch sneaker concepts and color options <br>• Draft logo concepts and refine visual identity <br>• Lead actual drawing/design and integrate feedback |
+| 📝 **Theoretical Presentation** | • Hassnaa Mohammed <br>• Gannah Ahmed |
+| 🎨 **Visual Presentation** | • Yousef Osama |
+| 💻 **Website Implementation** | • Yousef Osama <br>• Ahmed Mohammed |
+
+---
+
+### 🤝 **Collaboration Method**  
+- Brainstorming sessions: All members propose ideas for sneakers, logos & campaign visuals.  
+- Sketch participation: Each member creates at least 1–2 sneaker sketches.  
+- Feedback rounds: Everyone reviews drafts and gives input.  
+- Final decision: The whole team votes on the final logo, colors & sneaker design.  
+
+---
+
+## 🗓️ **Project Timeline (5 Weeks)**  
+
+| Week | Milestone |
+|------|------------|
+| 1 | ✏️ **Sketches & Concept Drawings** → Initial **sneaker sketches and visualization** + **logo sketches & design concepts** |
+| 2 | 🎨 **Illustrator & Brand Guideline** → Start execution in Illustrator + create brand guidelines |
+| 3 | 📘 **Continue Guideline Development** |
+| 4 | 📢 **Promotional Campaign** → Photoshop & Illustrator visuals for marketing |
+| 5 | ✅ **Final Adjustments & Refinements** |
+
+---
+
+## 📎 **Project Materials**  
+📂 [Presentation & Website Video](https://drive.google.com/drive/folders/1-hak2XG8AAVLZBtgEjfdYILuq-e9rh1P?usp=sharing)  
+
+---
+✨ *Designed with passion by Team CLENO* ✨
